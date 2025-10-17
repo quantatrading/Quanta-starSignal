@@ -8,4 +8,4 @@ Quanta starSignal is licensed for use on the Gunbot crypto trading platform.
 
 # Detailed Documention
 
-Has moved to the [wiki](https://github.com/quantatrading/Quanta-starSignal/wiki)
+Has moved to the [wiki](https://www.quantatrading.co.uk/docs/Quanta-starSignal/Home)
